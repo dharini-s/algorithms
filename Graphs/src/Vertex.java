@@ -61,7 +61,7 @@ public class Vertex
 		return "Vertex [id=" + id + "]";
 	}
 	
-	public static void main(String args[]) //look up argc and argv
+	public static void main(String args[])
 	{
 		//To do
 	}
